@@ -1,0 +1,13 @@
+
+* [[책임 연쇄 패턴 (Chain-of-Responsibility)]]
+* [[커맨드 (Command)]]
+* [[인터프리터 (Interpreter)]]
+* [[이터레이터 (Interator)]]
+* [[중재자 (Mediator)]]
+* [[메멘토 (Memento)]]
+* [[옵저버 (Observer)]]
+* [[상태 (State)]]
+* [[전략 (Strategy)]]
+* [[템플릿 메소드 (Template method)]]
+* [[템플릿 콜백 (Template-Callback)]]
+* [[방문자 (Visitor)]]
